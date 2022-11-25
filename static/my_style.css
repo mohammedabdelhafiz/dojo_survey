@@ -1,0 +1,31 @@
+#container {
+    width: 30%;
+    height: 70%;
+    display: flex;
+    margin-left: 37%;
+    margin-top: 20%;
+    border: 2px solid;
+}
+
+#first_div , #third_div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#button_div {
+    margin-left: 79%;
+}
+
+
+#container_two {
+    width:30%;
+    height: 70%;
+    border: 2px solid;
+    margin-left: 37%;
+    margin-top: 20%;
+
+}
+
+#result-divone , #result-divtwo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
